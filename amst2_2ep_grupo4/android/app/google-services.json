@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "141681159165",
+    "project_id": "prueba-amst-2ep",
+    "storage_bucket": "prueba-amst-2ep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141681159165:android:07ebd2e6d70eb79d184794",
+        "android_client_info": {
+          "package_name": "com.example.ams2ep.amst2_2ep_grupo4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141681159165-el4feftb6uv6gmb9vhuc5jhs19jod2qt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ams2ep.amst2_2ep_grupo4",
+            "certificate_hash": "cafff368fd96d4ce8d2bf2dbd286fb940274d991"
+          }
+        },
+        {
+          "client_id": "141681159165-htpt1p9giee3a8mp9qc6asjs2k7joloa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvCRG7kQBiuhxjQTvHcZY6hNimPt87qDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141681159165-htpt1p9giee3a8mp9qc6asjs2k7joloa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
